@@ -6,6 +6,10 @@ An improved implementation of persistent memory using a local knowledge graph wi
 
 This lets Claude remember information about the user across chats.
 
+<a href="https://glama.ai/mcp/servers/@itseasy21/mcp-knowledge-graph">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@itseasy21/mcp-knowledge-graph/badge" alt="Knowledge Graph Memory Server MCP server" />
+</a>
+
 > [!NOTE]
 > This is a fork of the original [Memory Server](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) and is intended to not use the ephemeral memory npx installation method.
 
